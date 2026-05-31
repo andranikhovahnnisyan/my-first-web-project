@@ -1,4 +1,4 @@
-# 🇯🇵 Tokyo Drift Style Web Project v1.0 🏎️💨
+# Tokyo Drift Style Web Project v1.0 🏎️💨
 
 ## 🦖 Powered by Godzilla R35 Spirit
 
